@@ -2,11 +2,11 @@
 
 // Mudar Aqui
 
-$email_envio = 'mesakilive@gmail.com'; // E-mail receptor
-$email_pass = 'misaki9478'; // Senha do e-mail
+$email_envio = ''; // E-mail receptor
+$email_pass = ''; // Senha do e-mail
 
-$site_name = 'Bikcraft'; // Nome do Site
-$site_url = 'https://bikescraft.000webhostapp.com'; // URL do Site
+$site_name = ''; // Nome do Site
+$site_url = ''; // URL do Site
 
 $host_smtp = 'smtp.gmail.com'; // HOST SMTP Ex: smtp.domain.com.br
 $host_port = '587'; // Porta do Host
